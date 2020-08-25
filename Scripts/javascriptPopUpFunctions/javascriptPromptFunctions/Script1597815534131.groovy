@@ -21,7 +21,7 @@ WebUI.waitForPageLoad(GlobalVariable.ExplicitWaitTimeout)
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('W3school/winAlertMethod/promptPopUp/Prompt Try it Yourself link'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/promptPopUp/Prompt Try it Yourself link'))
 
 WebUI.delay(GlobalVariable.SetWaitTime)
 
@@ -29,11 +29,11 @@ WebUI.switchToWindowIndex(1)
 
 WebUI.waitForPageLoad(GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.switchToFrame(findTestObject('W3school/winAlertMethod/promptPopUp/promptPopUp_iFrame'), GlobalVariable.SetWaitTime)
+WebUI.switchToFrame(findTestObject('W3schools/winAlertMethod/promptPopUp/promptPopUp_iFrame'), GlobalVariable.SetWaitTime)
 
-WebUI.waitForElementVisible(findTestObject('W3school/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementVisible(findTestObject('W3schools/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'), GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('W3school/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'))
 
 WebUI.waitForAlert(GlobalVariable.ExplicitWaitTimeout)
 
@@ -43,13 +43,13 @@ WebUI.delay(GlobalVariable.SetWaitTime)
 
 WebUI.verifyAlertNotPresent(GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('W3school/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'))
 
 WebUI.dismissAlert()
 
 WebUI.verifyAlertNotPresent(GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('W3school/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/promptPopUp/prompt_iFrameTryItLink'))
 
 WebUI.waitForAlert(GlobalVariable.ExplicitWaitTimeout)
 

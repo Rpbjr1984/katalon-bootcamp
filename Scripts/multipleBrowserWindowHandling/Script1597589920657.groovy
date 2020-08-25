@@ -19,17 +19,17 @@ WebUI.openBrowser(W3schoolWindowAlertURL)
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementVisible(findTestObject('W3school/winAlertMethod/Try it Yourself Link'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementVisible(findTestObject('W3schools/winAlertMethod/Try it Yourself Link'), GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.verifyElementVisible(findTestObject('W3school/winAlertMethod/Try it Yourself Link'))
+WebUI.verifyElementVisible(findTestObject('W3schools/winAlertMethod/Try it Yourself Link'))
 
-WebUI.click(findTestObject('W3school/winAlertMethod/Try it Yourself Link'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/Try it Yourself Link'))
 
 WebUI.switchToWindowIndex(1)
 
-WebUI.waitForElementVisible(findTestObject('W3school/winAlertMethod/Home Link'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementVisible(findTestObject('W3schools/winAlertMethod/Home Link'), GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('W3school/winAlertMethod/Home Link'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/Home Link'))
 
 WebUI.switchToWindowIndex(2)
 

@@ -21,7 +21,7 @@ WebUI.waitForPageLoad(GlobalVariable.ExplicitWaitTimeout)
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('W3school/winAlertMethod/confirmPopUp/Confirm Try it Yourself link'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/confirmPopUp/Confirm Try it Yourself link'))
 
 WebUI.delay(GlobalVariable.SetWaitTime)
 
@@ -29,17 +29,17 @@ WebUI.switchToWindowIndex(1)
 
 WebUI.waitForPageLoad(GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.switchToFrame(findTestObject('W3school/winAlertMethod/alertPopUp/alertPopUp_iFrame'), GlobalVariable.SetWaitTime)
+WebUI.switchToFrame(findTestObject('W3schools/winAlertMethod/alertPopUp/alertPopUp_iFrame'), GlobalVariable.SetWaitTime)
 
-WebUI.waitForElementVisible(findTestObject('W3school/winAlertMethod/confirmPopUp/confirm_iFrameTryItLink'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementVisible(findTestObject('W3schools/winAlertMethod/confirmPopUp/confirm_iFrameTryItLink'), GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('W3school/winAlertMethod/confirmPopUp/confirm_iFrameTryItLink'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/confirmPopUp/confirm_iFrameTryItLink'))
 
 WebUI.acceptAlert()
 
 WebUI.verifyAlertNotPresent(GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('W3school/winAlertMethod/confirmPopUp/confirm_iFrameTryItLink'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/confirmPopUp/confirm_iFrameTryItLink'))
 
 WebUI.dismissAlert()
 

@@ -21,7 +21,7 @@ WebUI.waitForPageLoad(GlobalVariable.ExplicitWaitTimeout)
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('W3school/winAlertMethod/alertPopUp/Alert Try it Yourself link'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/alertPopUp/Alert Try it Yourself link'))
 
 WebUI.delay(GlobalVariable.SetWaitTime)
 
@@ -29,11 +29,11 @@ WebUI.switchToWindowIndex(1)
 
 WebUI.waitForPageLoad(GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.switchToFrame(findTestObject('W3school/winAlertMethod/alertPopUp/alertPopUp_iFrame'), GlobalVariable.SetWaitTime)
+WebUI.switchToFrame(findTestObject('W3schools/winAlertMethod/alertPopUp/alertPopUp_iFrame'), GlobalVariable.SetWaitTime)
 
-WebUI.waitForElementVisible(findTestObject('W3school/winAlertMethod/alertPopUp/alert_iFrameTryItLink'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementVisible(findTestObject('W3schools/winAlertMethod/alertPopUp/alert_iFrameTryItLink'), GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('W3school/winAlertMethod/alertPopUp/alert_iFrameTryItLink'))
+WebUI.click(findTestObject('W3schools/winAlertMethod/alertPopUp/alert_iFrameTryItLink'))
 
 WebUI.waitForAlert(GlobalVariable.ExplicitWaitTimeout)
 
