@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>takeScreenshotFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ff5ca9e-5d9e-411c-a207-32ccae839fe5</testCaseGuid>
+   <variable>
+      <defaultValue>'ESS'</defaultValue>
+      <description></description>
+      <id>a0ed7833-7357-4df6-ac87-3bf8a19c903f</id>
+      <masked>false</masked>
+      <name>optionByLabel</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>4d336700-9dc2-437d-9075-95b89a5b20e5</id>
+      <masked>false</masked>
+      <name>booleanValueFalse</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>4222f5bd-ad8d-4177-9acb-4d1f6b05d499</id>
+      <masked>false</masked>
+      <name>optionByIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>f78ae244-3efd-4f88-a85f-ebdd4533af2f</id>
+      <masked>false</masked>
+      <name>optionByValue</name>
+   </variable>
+</TestCaseEntity>

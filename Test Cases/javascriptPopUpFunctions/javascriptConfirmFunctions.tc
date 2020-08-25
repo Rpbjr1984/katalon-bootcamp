@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>javascriptConfirmFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80dd760c-24d7-40a6-8a8c-dfde44070ffc</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.w3schools.com/jsref/met_win_confirm.asp'</defaultValue>
+      <description></description>
+      <id>78c01169-f58b-41ba-8658-1f2b06d52b01</id>
+      <masked>false</masked>
+      <name>jsConfirmUrl</name>
+   </variable>
+</TestCaseEntity>

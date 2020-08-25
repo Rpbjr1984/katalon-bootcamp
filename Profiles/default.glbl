@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://127.0.0.1/orangehrm/symfony/web/index.php/auth/login'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'RAIVpflpDOg='</initValue>
+      <name>userNameInput</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'blnKEsJDXBhzCXAnhNDCyA=='</initValue>
+      <name>passwordInput</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>defaultDelayTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2</initValue>
+      <name>SetWaitTime</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>60</initValue>
+      <name>ExplicitWaitTimeout</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

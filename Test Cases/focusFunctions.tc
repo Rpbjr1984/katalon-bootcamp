@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>focusFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f604b2d9-ddb9-4af5-a921-2de1c9c5bcc2</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demos.telerik.com/aspnet-ajax/dock/examples/setdraghandleclientside/defaultcs.aspx'</defaultValue>
+      <description></description>
+      <id>3ce2dc70-01a0-4cf2-a01d-102bd4948ece</id>
+      <masked>false</masked>
+      <name>focusUrl</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>mouseHoverFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1221edac-4369-4f4f-a926-2c0eb8e687a9</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demos.telerik.com/aspnet-ajax/tooltip/examples/overview/defaultcs.aspx'</defaultValue>
+      <description></description>
+      <id>f877da41-a89b-4083-a6b7-6ccf42d0a51d</id>
+      <masked>false</masked>
+      <name>mouseHoverUrl</name>
+   </variable>
+</TestCaseEntity>

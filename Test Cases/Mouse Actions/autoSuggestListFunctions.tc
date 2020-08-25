@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>autoSuggestListFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3aa5870-ed49-40e7-9d51-eb76464b197f</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demos.telerik.com/aspnet-ajax/autocompletebox/examples/default/defaultcs.aspx'</defaultValue>
+      <description></description>
+      <id>bf651d2b-bb25-4508-8bf8-46f2c9d5e34c</id>
+      <masked>false</masked>
+      <name>autoSuggestUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'And'</defaultValue>
+      <description></description>
+      <id>6c40c42f-2566-481f-8c63-7dcc913a4138</id>
+      <masked>false</masked>
+      <name>inputText</name>
+   </variable>
+</TestCaseEntity>

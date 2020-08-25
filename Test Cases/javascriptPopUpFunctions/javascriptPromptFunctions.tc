@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>javascriptPromptFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd7f0a93-2dd2-4394-a78f-404b6cb4eac3</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.w3schools.com/jsref/met_win_prompt.asp'</defaultValue>
+      <description></description>
+      <id>f994f552-4a19-40a6-a0f3-495f4cec928b</id>
+      <masked>false</masked>
+      <name>jsPromptUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ricardo'</defaultValue>
+      <description></description>
+      <id>9f27c535-16b3-4645-b0bb-e04b992b81d2</id>
+      <masked>false</masked>
+      <name>userNamePrompt</name>
+   </variable>
+</TestCaseEntity>

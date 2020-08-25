@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>javascriptAlertFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec1c7a0f-1757-492c-ae60-d90bf8e5a3ea</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.w3schools.com/js/js_popup.asp'</defaultValue>
+      <description></description>
+      <id>d4cc78df-c03b-4a18-9d1c-4bf667bf3ac4</id>
+      <masked>false</masked>
+      <name>jsAlertUrl</name>
+   </variable>
+</TestCaseEntity>

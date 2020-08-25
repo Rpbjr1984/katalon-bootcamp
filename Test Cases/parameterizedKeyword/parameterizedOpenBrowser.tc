@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>parameterizedOpenBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>330acc43-5ac2-4e4e-9e98-541ad7912558</testCaseGuid>
+   <variable>
+      <defaultValue>'https://youtube.com'</defaultValue>
+      <description></description>
+      <id>ba63b32e-cdf1-434c-877d-1df821feb804</id>
+      <masked>false</masked>
+      <name>youtubeUrl</name>
+   </variable>
+</TestCaseEntity>

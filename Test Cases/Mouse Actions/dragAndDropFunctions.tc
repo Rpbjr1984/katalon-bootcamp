@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dragAndDropFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d1304f3-1a95-4156-8d48-ceb8791e8649</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demos.telerik.com/aspnet-ajax/dock/examples/setdraghandleclientside/defaultcs.aspx'</defaultValue>
+      <description></description>
+      <id>ab04db98-08bc-4f0b-b45f-3b9536d822b7</id>
+      <masked>false</masked>
+      <name>dragDropUrl</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>explicitWaitFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2002554a-c65b-4154-85cd-dd0fbc0021e8</testCaseGuid>
+   <variable>
+      <defaultValue>'ESS'</defaultValue>
+      <description></description>
+      <id>142feaf0-ee86-4aaa-8d38-148533e10679</id>
+      <masked>false</masked>
+      <name>optionByLabel</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>68c13ef5-505f-4e0d-a68d-550ca9556b21</id>
+      <masked>false</masked>
+      <name>optionByIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>a46bcb6a-b23b-4f1f-a9c7-4a304d7fb97b</id>
+      <masked>false</masked>
+      <name>optionByValue</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>ebf1b340-0528-40b7-8c8c-cda62e80b809</id>
+      <masked>false</masked>
+      <name>defaultDelayTime</name>
+   </variable>
+</TestCaseEntity>

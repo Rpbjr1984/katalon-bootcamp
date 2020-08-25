@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>htmlFrames</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1816d83d-f04a-4854-919b-091945501d13</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.w3schools.com/jsref/met_win_alert.asp'</defaultValue>
+      <description></description>
+      <id>34772233-73a1-486c-a366-9a1c0f18e58d</id>
+      <masked>false</masked>
+      <name>W3schoolWindowAlertURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.w3schools.com/'</defaultValue>
+      <description></description>
+      <id>9368e57d-3624-4ee3-9396-1012294283a5</id>
+      <masked>false</masked>
+      <name>expectedIndex2URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tryit Editor v3.6'</defaultValue>
+      <description></description>
+      <id>1e3eb891-5f1a-4f72-9e0e-2139ab0cef47</id>
+      <masked>false</masked>
+      <name>index1_URL</name>
+   </variable>
+</TestCaseEntity>

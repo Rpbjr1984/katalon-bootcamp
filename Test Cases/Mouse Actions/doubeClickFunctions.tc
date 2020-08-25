@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>doubeClickFunctions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f7238b8-f349-424b-a54c-48ba9450e0a8</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demos.telerik.com/aspnet-ajax/treeview/examples/overview/defaultcs.aspx'</defaultValue>
+      <description></description>
+      <id>b7455116-8013-4c56-9c3e-513aef5f21c4</id>
+      <masked>false</masked>
+      <name>telerikDemoUrl</name>
+   </variable>
+</TestCaseEntity>
