@@ -21,19 +21,19 @@ WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.waitForElementVisible(findTestObject('Telerik/autoSuggestList/AutoCompleteBox_header'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementVisible(findTestObject('Telerik/autoSuggest/AutoCompleteBox_header'), GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.waitForElementVisible(findTestObject('Telerik/autoSuggestList/input_Text mode'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementVisible(findTestObject('Telerik/autoSuggest/input_Text mode'), GlobalVariable.ExplicitWaitTimeout)
 
-WebUI.click(findTestObject('Telerik/autoSuggestList/input_Text mode'))
+WebUI.click(findTestObject('Telerik/autoSuggest/input_Text mode'))
 
-WebUI.sendKeys(findTestObject('Telerik/autoSuggestList/input_Text mode'), inputText)
+WebUI.sendKeys(findTestObject('Telerik/autoSuggest/input_Text mode'), inputText)
 
-WebUI.waitForElementPresent(findTestObject('Telerik/autoSuggestList/li_Andrew'), GlobalVariable.ExplicitWaitTimeout)
+WebUI.waitForElementPresent(findTestObject('Telerik/autoSuggest/li_Andrew'), GlobalVariable.ExplicitWaitTimeout)
 
 WebUI.delay(GlobalVariable.SetWaitTime)
 
-WebUI.click(findTestObject('Telerik/autoSuggestList/li_Andrew'))
+WebUI.click(findTestObject('Telerik/autoSuggest/li_Andrew'))
 
 WebUI.delay(GlobalVariable.SetWaitTime)
 
